@@ -32,5 +32,4 @@ Runner/GeneratedPluginRegistrant.*
 !default.perspectivev3
 
 # +++
-#GoogleService-Info.plist
-GoogleService-Info
+/ios/Runner/GoogleService-Info.plist
